@@ -9,12 +9,12 @@
 html {
     font-family: 'Nunito', sans-serif;
     font-size: 22px;
-    color: #fff;
+    color: #065051;
 }
 
 body {
     min-height: 100vh;
-    background-color: dodgerblue;
+    background-color: rgb(14, 244, 229);
 }
 
 .App {
@@ -28,13 +28,13 @@ body {
 
 section {
     width: 100%;
-    max-width: 420px;
-    min-height: 400px;
+    max-width: 700px;
+    min-height: 500px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    padding: 1rem;
-    background-color: rgba(0,0,0,0.4);
+    padding: 2rem;
+    background-color: rgba(2, 87, 73, 0.4);
 }
 
 form {
@@ -46,7 +46,7 @@ form {
 }
 
 a, a:visited {
-    color: #fff;
+    color: #6cefd9;
 }
 
 input[type="text"],
